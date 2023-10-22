@@ -8,8 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/kaskar_yash" target="blank"><img src="https://img.shields.io/twitter/follow/kaskar_yash?logo=twitter&style=for-the-badge" alt="kaskar_yash" /></a> </p>
 
-- 🌱 I’m currently working on MERN Project Booking App **Booking App**
 - 📫 How to reach me **yash.kaskar99@gmail.com**
+- Linkedin **https://www.linkedin.com/in/yashskaskar9**
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
